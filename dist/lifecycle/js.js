@@ -1,0 +1,1 @@
+module.exports=[{clean:["clean"]},{resources:["resources"]},{analyse:["lint","dependencies","depCheck","test/p1"]},{output:["output","test/p2"]},{build:["min","install","test/p3"]}];

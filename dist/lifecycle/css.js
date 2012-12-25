@@ -1,0 +1,1 @@
+module.exports=[{clean:["clean"]},{resources:["resources"]},{compile:["less"]},{analyse:["lint"]},{output:["output"]},{build:["min","install","zip"]},{upload:["pack","upload"]},{publish:[]},{deploy:["deploy"]}];

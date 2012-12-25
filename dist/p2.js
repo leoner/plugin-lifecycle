@@ -1,0 +1,1 @@
+var plugin=module.exports=Plugin.create("p2");plugin.run=function(a,b){console.info("p2 invoke"),b()};
