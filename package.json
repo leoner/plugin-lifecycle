@@ -1,0 +1,11 @@
+{
+  "root": "spm",
+  "name": "lifecycle",
+  "version": "1.0.0",
+  "output": {
+    "p1.js": ".",
+    "p2.js": ".",
+    "p3.js": ".",
+    "lifecycle": "lifecycle/*.js"
+  }
+}
