@@ -23,4 +23,14 @@ plugin-lifecycle
 
 具体的插件内容和配置可以参看具体的源代码.
 
+### 使用
+```
+"plugins": {
+  "test": {
+      "main": "spm/lifecycle/1.0.0/p1",
+      "lifecycle": true
+  }
+}
+```
+
 
